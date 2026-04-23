@@ -3,14 +3,33 @@
 <!--
 **amarkrsingh/amarkrsingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hi 👋, I'm Amar Kumar
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🚀 Backend Developer | Java | Spring Boot | Microservices  
+
+---
+
+## 🔧 Skills
+- Java 8
+- Spring Boot
+- Microservices Architecture
+- REST APIs
+- Kafka (Learning)
+- Data Structures & Algorithms
+
+---
+
+## 📂 Projects
+- 🔹 Microservices Project (Eureka, API Gateway)
+- 🔹 Spring Boot REST APIs
+
+---
+
+## 📫 Contact Me
+- 📧 Email: amarkrsingh899@gmail.com
+
+---
+
+## ⚡ Fun Fact
+I focus on backend development and improving problem-solving daily.
 -->
